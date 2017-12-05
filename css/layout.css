@@ -1457,4 +1457,21 @@ fieldset[disabled] .btn-theme {
   }
 }
 
+.downloadButton {
+  background: #3491d9;
+  background-image: -webkit-linear-gradient(top, #3491d9, #00a6ff);
+  background-image: -moz-linear-gradient(top, #3491d9, #00a6ff);
+  background-image: -ms-linear-gradient(top, #3491d9, #00a6ff);
+  background-image: -o-linear-gradient(top, #3491d9, #00a6ff);
+  background-image: linear-gradient(to bottom, #3491d9, #00a6ff);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 37px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
 
