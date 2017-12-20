@@ -684,7 +684,7 @@ fieldset[disabled] .btn-theme {
   font-size: 13px;
   font-weight: 600;
   font-family: Hind, sans-serif;
-  color: red;
+  color: #FF0000;
   text-transform: uppercase;
   line-height: 55px;
   padding: 20px;
