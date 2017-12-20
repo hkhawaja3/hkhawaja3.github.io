@@ -1457,6 +1457,10 @@ fieldset[disabled] .btn-theme {
   }
 }
 
+.animatedme {
+	opacity:0.5;
+}
+
 .downloadButton {
   background: #3491d9;
   background-image: -webkit-linear-gradient(top, #3491d9, #00a6ff);
